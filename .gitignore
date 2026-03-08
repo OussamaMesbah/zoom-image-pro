@@ -1,0 +1,8 @@
+# Chrome Extension build files
+*.zip
+*.crx
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
