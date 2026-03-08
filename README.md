@@ -2,8 +2,6 @@
 
 **Zoom Image Pro** is a high-performance Chrome extension designed for seamless image interaction. Whether you're a designer, photographer, or just browsing, it provides a powerful set of tools to zoom, pan, rotate, and save images on any website.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/omesbahf)
-
 ---
 
 ## 🌟 Key Features
